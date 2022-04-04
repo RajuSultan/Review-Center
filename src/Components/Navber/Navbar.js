@@ -1,6 +1,7 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+// import { Link as CustomLink } from 'react-router-dom';
 import './Navber.css';
+import CustomLink from '../CustomLink/CustomLink';
 
 const Navbar = () => {
     return (
@@ -9,15 +10,12 @@ const Navbar = () => {
                 <img src="https://cdn-icons-png.flaticon.com/512/1810/1810323.png" alt="" />
             </div>
             <div className='nav-links'>
-                <Link to="/home">HOME</Link>
-                <Link to="/reviews">REVIEWS</Link>
-                <Link to="/dashboard">DASHBOARD</Link>
-                <Link to="/blogs">BLOGS</Link>
-                <Link to="/about">ABOUT</Link>
+                <CustomLink to="/home">HOME</CustomLink>
+                <CustomLink to="/reviews">REVIEWS</CustomLink>
+                <CustomLink to="/dashboard">DASHBOARD</CustomLink>
+                <CustomLink to="/blogs">BLOGS</CustomLink>
+                <CustomLink to="/about">ABOUT</CustomLink>
             </div>
-
-
-
         </div>
     );
 };

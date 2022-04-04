@@ -6,14 +6,14 @@ const Comment = (props) => {
 
     return (
         <div className='comment-box'>
-            {/* <div className="pic">
+            <div className="pic">
                 <img src={picture} alt="" />
             </div>
             <div className="comment-details">
                 <h3>{name}</h3>
                 <p>{comment}</p>
                 <p className='country'><small>Ratings: {ratings}</small></p>
-            </div> */}
+            </div>
 
         </div>
     );
