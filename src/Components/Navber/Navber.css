@@ -1,0 +1,29 @@
+.nav-box {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2e8443;
+
+
+}
+
+.nav-img {
+    margin-left: 40px;
+    margin-top: 4px;
+}
+
+.nav-links {
+    margin-right: 50px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    margin-right: 60px;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.nav-box img {
+    width: 80px;
+}

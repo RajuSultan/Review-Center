@@ -1,0 +1,82 @@
+.header-part {
+    display: flex;
+    margin: 5%;
+    justify-content: space-between;
+}
+
+@media only screen and (max-width: 600px) {
+    .header-part {
+        display: block;
+    }
+}
+
+.header-details {
+    flex-basis: 45%;
+    display: flex;
+    align-items: center;
+}
+
+.header-image {
+    flex-basis: 45%;
+
+}
+
+.details button {
+    padding: 15px 27px;
+    background-color: #2e8443;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 0px 6px 1px #a8a2a2;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.details button:hover {
+    background-color: orange;
+    color: white;
+    font-weight: 500;
+}
+
+.header-image img {
+    width: 100%;
+    height: 400px;
+    margin-top: 50px;
+}
+
+.exparts-reviews {
+    margin-top: 50px;
+}
+
+.exparts-reviews button {
+    padding: 15px 27px;
+    background-color: #2e8443;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 0px 6px 1px #a8a2a2;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.exparts-reviews h1 {
+    text-align: center;
+    color: #2e8443;
+}
+
+
+.comments {
+    margin: 73px 100px;
+}
+
+.exparts-reviews button:hover {
+    background-color: orange;
+    color: white;
+    font-weight: 500;
+
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+
+}

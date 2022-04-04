@@ -1,0 +1,44 @@
+[
+    {
+        "id": "6249e38417e4dcfd1d8e06de",
+        "ratings": "3.5/5",
+        "picture": "https://images.unsplash.com/photo-1620833072816-e879094a1475?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+        "name": "Conway Nicholson",
+        "comment": "“The 14-inch Apple MacBook Pro occupies a new sweet spot among pro content-creator laptops: far more capable than consumer-class alternatives, yet much less expensive ”"
+    },
+    {
+        "id": "6249e3847a3ac857c525c8a9",
+        "ratings": "4/5",
+        "picture": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "name": "Cooper Fulton",
+        "comment": "“Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.” "
+    },
+    {
+        "id": "6249e3845a55e6a86b18e6c9",
+        "ratings": "5/5",
+        "picture": "https://images.unsplash.com/photo-1617137968427-85924c800a22?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWVucyUyMGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Clay Jimenez",
+        "comment": "“The M1-equipped MacBook Air now packs far better performance than its predecessors, rivaling at times the M1-based MacBook Pro. At $999, it’s the best value among macOS laptops.” "
+    },
+    {
+        "id": "6249e3849d3516a6764b0cda",
+        "ratings": "5/5",
+        "picture": "https://images.unsplash.com/photo-1599725728598-dc7ed109ff89?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Hodges Beck",
+        "comment": "“A tweaked keyboard and the option for a 10th Generation Intel Ice Lake CPU bring typing comfort and better performance to Apple's already-excellent 13-inch MacBook Pro.”"
+    },
+    {
+        "id": "6249e38417514c194a2375ab",
+        "ratings": "3/5",
+        "picture": "https://images.unsplash.com/photo-1520975916090-3105956dac38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Fisher Barber",
+        "comment": "“If you're a macOS fan who primarily uses a laptop to write and browse the web, the 2020 Apple MacBook Air's redesigned keyboard and lower price make it easy to recommend.”"
+    },
+    {
+        "id": "6249e38417514c194a2375rf",
+        "ratings": "4/5",
+        "picture": "https://st.depositphotos.com/1017986/2510/i/600/depositphotos_25108427-stock-photo-businesswoman-with-pen.jpg",
+        "name": "Terra Santos",
+        "comment": "“With a larger display, a beefier graphics chip, and (vitally and finally!) an improved keyboard, Apple's 16-inch MacBook Pro is a beyond-capable big-screen powerhouse built for creatives. ”"
+    }
+]
